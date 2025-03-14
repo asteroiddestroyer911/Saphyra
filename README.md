@@ -24,10 +24,8 @@ Saphyra is a lightweight Python script designed to perform HTTP request flooding
 
 To run Saphyra, use the following command (using bash) :
 
-```
-
+```bash
 python Saphyra.py <url> <port>
-
 ```
 
 Replace <url> with the target URL (must start with http:// or https://).
