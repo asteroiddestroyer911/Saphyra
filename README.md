@@ -1,4 +1,4 @@
-# Saphyra: A Simple HTTP Request Flooder
+# Saphyra: A HTTP Request Flooder
 
 
 Saphyra is a lightweight Python script designed to perform HTTP request flooding against a specified target URL. This tool is primarily intended for educational purposes, such as stress testing your own web applications or understanding the impact of high traffic on server performance.
